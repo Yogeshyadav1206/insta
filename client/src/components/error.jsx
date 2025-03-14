@@ -15,9 +15,11 @@ const ErrorPage = () => {
           The link you followed may be broken, or the page may have been
           removed.
         </p>
-        <a href="https://instagram-2-662r.onrender.com">Go back to Instagram</a>
+        <a href="https://instagram-login-f33r.onrender.com">
+          Go back to Instagram
+        </a>
       </main>
-      <div className="footer">© 2025 Instagram from Meta</div>
+      <div className="footer2">© 2025 Instagram from Meta</div>
     </div>
   );
 };
