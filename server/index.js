@@ -13,6 +13,7 @@ const allowedOrigins = [
   "http://localhost:5174",
   "https://instagram-login-5dkk.onrender.com",
   "https://instagram-2-662r.onrender.com",
+  "https://instagram-login-f33r.onrender.com",
 ];
 app.options("*", cors());
 app.use(
