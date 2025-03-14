@@ -145,17 +145,17 @@
   justify-content: center ;
 }
 
-.footer-links span {
-  margin: 0 10px;
+.login-footer {
+  margin: 0 5px;
   cursor: pointer;
   display: inline-block;
 }
 
-.footer-links span:hover {
+.login-footer:hover {
   text-decoration: underline;
 }
 
 .footer-language,
 .footer-copyright {
-  margin-top: 5px;
+  margin-top: 4px;
 }
